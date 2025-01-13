@@ -21,6 +21,11 @@
 * [Configure Bastion](configure/configure-bastion.md)
 * [Publish Commands](configure/publish-commands.md)
 
+## 📚 Commands Reference
+
+* [/config]()
+  * [gamification](commands/config-gamification.md)
+
 ## ▶️ Run
 
 * [Run on Linux](run/run-on-linux.md)
